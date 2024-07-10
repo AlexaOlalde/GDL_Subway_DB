@@ -1,0 +1,30 @@
+USE subway_gdl;
+-- INSERT VALUES ON THE TABLE TRAINS
+
+INSERT INTO trains (serial_number, line_id, type, year) VALUES
+('0JFxafE4q8', 1, 1, 1963),
+('2e5v4FHs0T', 3, 2, 1984),
+('5xPdsZ1x9L', 3, 2, 1948),
+('7csbz2qteT', 1, 1, 1971),
+('B83fPCVFbH', 1, 1, 1990),
+('Bv1MN0DuUm', 2, 2, 1952),
+('D9m2gBhBJw', 2, 1, 1969),
+('EDUumFCvJl', 2, 1, 1967),
+('ejN3a4CsDC', 3, 2, 1997),
+('Ge92a6hVX8', 1, 2, 1967),
+('Huz9yGcao5', 2, 1, 1980),
+('Hvhw9vxUaH', 3, 1, 1983),
+('JO5UinVh7B', 2, 1, 1956),
+('MPbPGQfWxT', 1, 2, 1982),
+('mS0SY0eScA', 3, 2, 1986),
+('oCut3fDYXE', 3, 2, 1987),
+('oRyT0nwjUn', 2, 1, 1988),
+('OtmhQxSRpS', 3, 2, 1956),
+('Pazz9JGCbJ', 1, 2, 1988),
+('pMldxCQ2sS', 3, 1, 1984),
+('q92m0d8aWM', 1, 1, 1979),
+('QJ22USb3ry', 2, 1, 1949),
+('S06Q7kXYrP', 1, 1, 1990),
+('s0QypBy7cJ', 2, 2, 1958),
+('S6R4dX4THI', 2, 2, 1994),
+('t8HhPpvYbU', 1, 2, 1996);
